@@ -1,0 +1,40 @@
+typography_spectrum: 0.703541821334511
+color:
+  brandStrength: 0.026065290439873934
+  lightness: 0.09164223494008183
+  saturation: 0.07855414808727801
+  rhythmicContrast: 0.3222143384627998
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+opengraph:
+  appId: javasilk93401@yahoo.com
+layout_spectrum: 0.9239437428768724
+author:
+  name: John Sanders
+  email: info_delphinusschool@yahoo.com
+  url: 'http//:delphinusschool.com'
+name: Delphinusschool.com
+navigation:
+  - name: Outdoor Adventures and Exploration
+    url: 'http://facebook.com/bison58'
+    type: external
+  - name: >-
+      An exceptional outdoor summer prgram for elementary and middle school aged
+      students.
+    url: 'http//:delphinusschool.com'
+    type: external
+title: Outdoor Science  and Exploration
+description: |+
+
+purpose:
+  - type: email
+    url: 'mailto:info_delphinusschool@yahoo.com'
+    label: Contact Us
+  - type: contact
+    url: 'tel:805-458-2970'
+    label: Call 805-458-2970
