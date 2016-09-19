@@ -13,11 +13,15 @@ color:
 github: true
 opengraph:
   appId: javasilk93401@yahoo.com
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
 layout_spectrum: 0.9239437428768724
 author:
   name: John Sanders
   email: info_delphinusschool@yahoo.com
   url: 'http//:delphinusschool.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79c17bb9-2bf2-4976-b955-425f4c3fa678.jpg
 name: Delphinusschool.com
 navigation:
   - name: Outdoor Adventures and Exploration
