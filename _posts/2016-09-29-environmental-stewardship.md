@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-29T23:19:44.373Z'
+datePublished: '2016-09-29T23:19:54.347Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:19:43.983Z'
+dateModified: '2016-09-29T23:19:53.947Z'
 title: Environmental Stewardship
 publisher: {}
 description: Students noticed trash along the creek side and took action!
