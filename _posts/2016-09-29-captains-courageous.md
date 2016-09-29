@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-29T21:44:14.250Z'
+datePublished: '2016-09-29T23:18:18.901Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T11:44:52.789Z'
+dateModified: '2016-09-29T23:18:18.409Z'
 title: Captains Courageous
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-29-captains-courageous.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
