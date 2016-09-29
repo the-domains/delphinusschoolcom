@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-29T21:44:20.491Z'
+datePublished: '2016-09-29T23:18:18.910Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-19T07:47:39.531Z'
+dateModified: '2016-09-29T23:18:18.409Z'
 title: Waiting for Humpbacks
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-29-waiting-for-humpbacks.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
