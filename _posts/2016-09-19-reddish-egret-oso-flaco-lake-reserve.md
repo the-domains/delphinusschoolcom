@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-29T23:18:01.262Z'
+datePublished: '2016-09-29T23:18:18.909Z'
 sourcePath: _posts/2016-09-19-reddish-egret-oso-flaco-lake-reserve.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:18:00.767Z'
+dateModified: '2016-09-29T23:18:18.409Z'
 title: Reddish egret @ Oso Flaco Lake Reserve
 publisher: {}
 description: >-
