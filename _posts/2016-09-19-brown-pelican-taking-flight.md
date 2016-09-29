@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-29T23:18:18.902Z'
+datePublished: '2016-09-29T23:18:59.304Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:18:18.409Z'
+dateModified: '2016-09-29T23:18:58.383Z'
 title: Brown pelican taking flight
 publisher: {}
 description: >-
