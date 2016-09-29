@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-29T12:26:29.885Z'
+datePublished: '2016-09-29T21:18:28.616Z'
 sourcePath: _posts/2016-09-18-waiting-on-the-trolley-morro-rock.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T12:26:27.686Z'
+dateModified: '2016-09-29T21:18:27.387Z'
 title: Another Day in Morro Bay
 publisher: {}
 description: ''
