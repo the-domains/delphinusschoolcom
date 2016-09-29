@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-09-29T23:16:35.506Z'
+datePublished: '2016-09-29T23:19:23.649Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:16:17.736Z'
+dateModified: '2016-09-29T23:19:23.263Z'
 title: Arroyo Grande Creek
 publisher: {}
 description: >-
   This creek is monitored continuously for water quality, and is a focal point
   for habitat restoration for steel head trout.
-starred: false
 sourcePath: _posts/2016-09-29-arroyo-grande-creek.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
