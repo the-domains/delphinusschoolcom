@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-29T23:19:23.649Z'
+datePublished: '2016-09-29T23:19:36.186Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:19:23.263Z'
+dateModified: '2016-09-29T23:19:35.401Z'
 title: Arroyo Grande Creek
 publisher: {}
 description: >-
