@@ -1,4 +1,5 @@
-typography_spectrum: 0.703541821334511
+layout_spectrum: 0.8571968663018197
+typography_spectrum: 0.37625002302229404
 color:
   brandStrength: 0.026065290439873934
   lightness: 0.09164223494008183
@@ -15,7 +16,6 @@ opengraph:
   appId: javasilk93401@yahoo.com
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
-layout_spectrum: 0.9239437428768724
 author:
   name: John Sanders
   email: info_delphinusschool@yahoo.com
