@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-29T23:20:20.472Z'
+datePublished: '2016-10-01T20:52:14.574Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:20:19.916Z'
+dateModified: '2016-10-01T20:52:14.216Z'
 title: Captains Courageous
 publisher: {}
 description: ''
