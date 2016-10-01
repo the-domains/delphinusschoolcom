@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-29T23:20:20.482Z'
+datePublished: '2016-10-01T20:52:23.508Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-29T23:20:19.916Z'
+dateModified: '2016-10-01T20:52:22.663Z'
 title: Waiting for Humpbacks
 publisher: {}
 description: ''
