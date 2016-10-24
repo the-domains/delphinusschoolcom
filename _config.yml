@@ -1,21 +1,21 @@
-typography_spectrum: 0.37625002302229404
+layout_spectrum: 0.5765176417557799
+typography_spectrum: 0.9264737802454373
 color:
-  brandStrength: 0.026065290439873934
-  lightness: 0.09164223494008183
-  saturation: 0.07855414808727801
-  rhythmicContrast: 0.3222143384627998
+  brandStrength: 0.9734482212469793
+  lightness: 0.5213622976194071
+  saturation: 0.8614111425031419
+  rhythmicContrast: 0.8291511943967699
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#9EC3EF'
+    - '#0F0A10'
+    - '#3366F3'
+    - '#9E2C50'
 github: true
 opengraph:
   appId: javasilk93401@yahoo.com
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
-layout_spectrum: 0.8571968663018197
 author:
   name: John Sanders
   email: info_delphinusschool@yahoo.com
