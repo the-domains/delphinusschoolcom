@@ -1,4 +1,3 @@
-layout_spectrum: 0.5765176417557799
 typography_spectrum: 0.9264737802454373
 color:
   brandStrength: 0.9734482212469793
@@ -16,6 +15,7 @@ opengraph:
   appId: javasilk93401@yahoo.com
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
+layout_spectrum: 0.5765176417557799
 author:
   name: John Sanders
   email: info_delphinusschool@yahoo.com
@@ -33,6 +33,7 @@ navigation:
     url: 'http//:delphinusschool.com'
     type: external
 title: 'Outdoor Science Education and Exploration '
+content: []
 description: |+
 
 purpose:
