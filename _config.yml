@@ -1,25 +1,28 @@
 typography_spectrum: 0.9264737802454373
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.9734482212469793
-  lightness: 0.5213622976194071
-  saturation: 0.8614111425031419
-  rhythmicContrast: 0.8291511943967699
   brandColors:
     - '#FFFFFF'
     - '#9EC3EF'
     - '#0F0A10'
     - '#3366F3'
     - '#9E2C50'
+  brandStrength: 0.9734482212469793
+  lightness: 0.5213622976194071
+  saturation: 0.8614111425031419
+  rhythmicContrast: 0.8291511943967699
 github: true
 opengraph:
-  appId: javasilk93401@yahoo.com
+  type: ''
+  appId: 'https://facebook.com/bison58'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
 layout_spectrum: 0.5765176417557799
 author:
   name: John Sanders
-  email: info_delphinusschool@yahoo.com
   url: 'http//:delphinusschool.com'
+  email: info_delphinusschool@yahoo.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79c17bb9-2bf2-4976-b955-425f4c3fa678.jpg
 name: Delphinus School @SLO
@@ -30,16 +33,18 @@ navigation:
   - name: >-
       An exceptional outdoor summer prgram for elementary and middle school aged
       students.
-    url: 'http//:delphinusschool.com'
+    url: 'http://delphinusschool.com'
     type: external
 title: 'Outdoor Science Education and Exploration '
 content: []
-description: |+
-
+description: >-
+  Regional nature awareness summer camps, custom science programs for youth
+  groups, special programs for elementary and middle schools, and outdoor
+  adventures for families on the Central Coast
 purpose:
   - type: email
     url: 'mailto:info_delphinusschool@yahoo.com'
     label: Contact Us
   - type: contact
-    url: 805-458-2970
+    url: 'tel:805-458-2970'
     label: Call 805-458-2970
