@@ -1,24 +1,24 @@
-typography_spectrum: 0.9264737802454373
-content_rating:
-  adult: false
+layout_spectrum: 0.6829724669426053
+typography_spectrum: 0.08227451706443462
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#9EC3EF'
-    - '#0F0A10'
-    - '#3366F3'
-    - '#9E2C50'
-  brandStrength: 0.9734482212469793
-  lightness: 0.5213622976194071
-  saturation: 0.8614111425031419
-  rhythmicContrast: 0.8291511943967699
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.883025166957759
+  lightness: 0.8900179434070677
+  saturation: 0.7171119121852155
+  rhythmicContrast: 1
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: 'https://facebook.com/bison58'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
-layout_spectrum: 0.5765176417557799
 author:
   name: John Sanders
   url: 'http//:delphinusschool.com'
