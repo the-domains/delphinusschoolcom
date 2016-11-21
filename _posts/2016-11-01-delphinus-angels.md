@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-11-01T07:07:28.571Z'
+datePublished: '2016-11-21T03:11:40.173Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-01T07:05:02.893Z'
+dateModified: '2016-11-21T03:11:02.905Z'
 title: Delphinus Angels
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-11-01-delphinus-angels.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
