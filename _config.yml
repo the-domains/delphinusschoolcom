@@ -1,5 +1,6 @@
-layout_spectrum: 0.4418244544666556
 typography_spectrum: 0.39493727047411303
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#16193B'
@@ -11,14 +12,13 @@ color:
   lightness: 0.8914787101472663
   saturation: 0.7179560734050366
   rhythmicContrast: 0.9934694525339447
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: 'https://facebook.com/bison58'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/bef80ed2-2b64-4951-ac83-4778ec3e54b2.jpg
+layout_spectrum: 0.4418244544666556
 author:
   name: John Sanders
   url: 'http//:delphinusschool.com'
