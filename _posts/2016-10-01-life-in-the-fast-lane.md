@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-01T00:47:38.998Z'
+datePublished: '2016-11-21T10:50:36.308Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-30T18:15:03.685Z'
+dateModified: '2016-11-21T04:43:55.426Z'
 title: 'Life in the fast lane '
 publisher: {}
 description: >-
   Delphinus School of Natural History provides great opportunities for adventure
   and exploration.
-starred: false
 sourcePath: _posts/2016-10-01-life-in-the-fast-lane.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
