@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-21T04:47:54.870Z'
+datePublished: '2016-11-21T04:48:46.399Z'
 sourcePath: _posts/2016-10-01-kayaking-in-morro-bay.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-21T04:47:54.329Z'
-title: Kayaking the Morro Bay to the Sandspit
+dateModified: '2016-11-21T04:48:45.919Z'
+title: Kayaking in Morro Bay to the Sandspit
 publisher: {}
 description: ''
 starred: false
