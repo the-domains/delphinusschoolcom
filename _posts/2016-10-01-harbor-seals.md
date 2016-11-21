@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-01T21:36:43.314Z'
+datePublished: '2016-11-21T20:18:27.980Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-01T21:36:37.242Z'
+dateModified: '2016-11-21T10:50:58.201Z'
 title: Harbor seals
 publisher: {}
 description: >-
   These curious animals will often appear suddenly while we're kayaking across
   the bay
-starred: false
 sourcePath: _posts/2016-10-01-harbor-seals.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
