@@ -1,19 +1,28 @@
 ---
-datePublished: '2016-11-24T06:11:01.316Z'
+datePublished: '2016-11-24T06:59:49.663Z'
+sourcePath: _posts/2016-11-24-delphinus-dolphins.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T06:05:41.619Z'
+dateModified: '2016-11-24T06:59:49.015Z'
 title: ''
 publisher: {}
 description: Delphinus Dolphins
 starred: false
-sourcePath: _posts/2016-11-24-delphinus-dolphins.md
 url: delphinus-dolphins/index.html
 _type: Article
 
 ---
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3b7d0efd397709bffe1cd04cfb5e9626/croprotate.jpg?cropheight=1535&cropwidth=2560&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F83e7fe48-4b12-45eb-b22e-d76965523400.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2136bbb50c50bc44a3bb6b3686b41682c0092755.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/870e5cdc7a2c464cf3b189279ed7a8f7f12ab4ad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acc0fd4f5b6409dd6ecb562007b70d6fd957aefc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/012da1c11963b87a5f026a1e0b4d2b770eb6f4ce.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b88321b31c946af5be5e1079a4e5274579ff386c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db105410-e1a9-4ee4-b7d4-17a2dd2f827e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7802a558-39f5-435f-998c-bf237dfc1794.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b7b14d1e36dda1ce0f33e9ec4d2fa06c66a4eaa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe8bd13-c55f-4ab7-a7cf-f7d226adf6f7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f2ca677-1c63-400c-9115-4a9385dfb952.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f90a060-e763-405a-83ba-954c97adefba.jpg)
@@ -23,7 +32,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/660cb9c3-2ed6-4e10-8bc2-a71b098790d8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e35478-6c6a-47a5-9203-f256bc1b14af.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3811cb9-70cb-4800-9de2-fd6852ec36eb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78fe2c89-8674-425e-82d6-7227354eb311.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcd61481fb61fa5fee0f8257c9a9bd8a6b6a5a60.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d712d074-88a7-4810-8389-b453a54659b7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc22726b-cf59-4af8-9632-2badb2748a43.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe945bd2-ab36-4c31-9786-eeebf1b028f0.jpg)
@@ -41,4 +50,4 @@ Delphinus Dolphins
 
 ---
 
-Marine Science Students
+Marine Science Students @ Morro Bay Estuary taking a break for lunch @ Giovanni's.
