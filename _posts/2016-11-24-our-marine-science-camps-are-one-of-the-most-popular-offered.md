@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-24T06:13:32.413Z'
+datePublished: '2016-11-25T23:05:50.060Z'
+sourcePath: >-
+  _posts/2016-11-24-our-marine-science-camps-are-one-of-the-most-popular-offered.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T06:10:06.061Z'
+dateModified: '2016-11-25T23:05:49.006Z'
 title: ''
 publisher: {}
 description: >-
   Our Marine Science camps are one of the most popular offered by Delphinus
   School of Natural History
-hasPage: true
 starred: false
-sourcePath: >-
-  _posts/2016-11-24-our-marine-science-camps-are-one-of-the-most-popular-offered.md
 url: our-marine-science-camps-are-one-of-the-most-popular-offered/index.html
 _type: Article
 
