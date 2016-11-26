@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-11-25T23:05:50.060Z'
+datePublished: '2016-11-26T07:23:04.245Z'
 sourcePath: >-
   _posts/2016-11-24-our-marine-science-camps-are-one-of-the-most-popular-offered.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T23:05:49.006Z'
-title: ''
+dateModified: '2016-11-26T07:23:02.682Z'
+title: Delphinus Dolphins
 publisher: {}
 description: >-
   Our Marine Science camps are one of the most popular offered by Delphinus
@@ -17,6 +17,7 @@ url: our-marine-science-camps-are-one-of-the-most-popular-offered/index.html
 _type: Article
 
 ---
+# Delphinus Dolphins
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/434ed01b-5098-49f7-b4b5-13601a258d94.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c75e73-add6-4d43-bfcf-823b164d1ea9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d6c50ab-d422-4a78-b984-29a924ce6e17.jpg)
