@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-11-21T10:50:36.308Z'
+datePublished: '2016-11-27T19:21:27.230Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-21T04:43:55.426Z'
+dateModified: '2016-11-27T19:20:55.451Z'
 title: 'Life in the fast lane '
 publisher: {}
 description: >-
