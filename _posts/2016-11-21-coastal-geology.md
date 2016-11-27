@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-21T10:21:20.013Z'
+datePublished: '2016-11-27T19:21:27.235Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-21T10:21:11.108Z'
+dateModified: '2016-11-27T19:20:55.451Z'
 title: Coastal Geology
 publisher: {}
 description: >-
@@ -16,8 +16,8 @@ description: >-
   the uplifted marine terraces of Montana de Oro. Students will learn to
   distinguish between sedimentary, metamorphic, and igneous rocks, and learn the
   processes involved in converting rocks from one type to another.
-starred: false
 sourcePath: _posts/2016-11-21-coastal-geology.md
+starred: false
 url: coastal-geology/index.html
 _type: Article
 
